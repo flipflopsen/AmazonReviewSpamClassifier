@@ -138,7 +138,11 @@ executed as part of this audit.
 
 ## License
 
-No license has currently been assigned. The source code is published for
-inspection and portfolio purposes; no permission for reuse, modification, or
-redistribution is implied.
+No open-source license has been assigned to this repository. The materials are publicly available for inspection, evaluation, academic use, and portfolio purposes.
+
+Non-commercial academic use is permitted. Citation should follow applicable scholarly standards.
+
+Any copying, modification, redistribution, incorporation into other software, or commercial use requires prior written permission. Requests are expressly welcome and will generally be approved; commercial use may be subject to an agreed licence fee or revenue-sharing arrangement.
+
+Copyright © 2026 Philip Weber. All rights reserved.
 

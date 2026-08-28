@@ -5,6 +5,10 @@ labeling) using both classical NLP classifiers and neural-network (ANN)
 approaches, with a Django REST backend and a small static front end for
 interactive classification.
 
+## Important Note
+The dataset used to train the classifier and the ANN is from Kaggle,
+found here: https://www.kaggle.com/datasets/dongrelaxman/amazon-reviews-dataset
+
 ## Status
 
 This repository is an archived academic/experimental project. It is published

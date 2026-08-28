@@ -1,0 +1,19 @@
+/data/
+/venv/
+/database/
+/trained_models/
+
+notebooks/**
+!notebooks/NotebookPhilip.ipynb
+!notebooks/NotebookNLP.ipynb
+
+# Generated / dependency artifacts (found in repository during audit)
+__pycache__/
+*.pyc
+.idea/
+bin/website/node_modules/
+bin/django/api/db.sqlite3
+*.pkl
+*.rar
+TODO.md
+bin/website/KI_UEB1_2.pdf

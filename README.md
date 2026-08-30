@@ -136,12 +136,6 @@ executed as part of this audit.
   redistribution rights (its name suggests a university course assignment
   sheet); verify its provenance before publishing the repository.
 
-## License
-
-No open-source license has been assigned to this repository. The materials are publicly available for inspection, evaluation, academic use, and portfolio purposes.
-
-Non-commercial academic use is permitted. Citation should follow applicable scholarly standards.
-
 Any copying, modification, redistribution, incorporation into other software, or commercial use requires prior written permission. Requests are expressly welcome and will generally be approved; commercial use may be subject to an agreed licence fee or revenue-sharing arrangement.
 
 Copyright © 2026 Philip Weber. All rights reserved.
